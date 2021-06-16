@@ -22,6 +22,13 @@ f:force     强行
 cat "path/filename"
 ```
 
+### 5. 查看当前目录下的文件大小 
+```shell
+ls -lht           看文件大小
+du -sh *          看文件大小
+du -sh /home      看对应目录下文件大小 
+```
+
 ## 二. 时间
 ### 1. 系统当时间
 ```shell
